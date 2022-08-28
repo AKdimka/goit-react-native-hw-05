@@ -1,0 +1,26 @@
+[
+	{
+		"id": "1",
+		"image": "../assets/images/publication-1.jpg",
+		"title": "Ліс",
+		"comments": 8,
+		"location": "Ivano-Frankivsk Region, Ukraine",
+		"like": 153
+	},
+	{
+		"id": "2",
+		"image": "../assets/images/publication-2.jpg",
+		"title": "Зфхід сонця на Чорному морі",
+		"comments": 3,
+		"location": "Ivano-Frankivsk Region, Ukraine",
+		"like": 200
+	},
+	{
+		"id": "3",
+		"image": "../assets/images/publication-3.jpg",
+		"title": "Старий дім в Венеції",
+		"comments": 50,
+		"location": "Ivano-Frankivsk Region, Ukraine",
+		"like": 200
+	}
+]
