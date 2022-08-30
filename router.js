@@ -32,8 +32,8 @@ export const useRoute = (isAuth) => {
 
 	return (
 		<MainTab.Navigator
-			tabBarOptions={{
-				showLabel: false,
+			screenOptions={{
+				tabBarShowLabel: false,
 			}}>
 			<MainTab.Screen
 				name='Posts'
